@@ -1,0 +1,1 @@
+used handout 0x2008000A 0x20090001 0x01095020CPU.java mimics a cpu with registers and pc and implements the requested itemsMemory.java simulates ram with byte storage in 32 bitMiniSimulator.java main file of program that executes the cpu and memory
